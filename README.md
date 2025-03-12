@@ -1,6 +1,7 @@
 # FineTune-Embedding-Model
 A collection of techniques, code, and best practices for fine-tuning embedding models for tasks like search, retrieval, and recommendation. Covers contrastive learning, domain adaptation, and performance optimization. Ideal for AI engineers and researchers working on customized vector representations.
 
+#### Adam Lucek's youtube video: [Improving RAG Retrieval by 60% with Fine-Tuned Embeddings](https://www.youtube.com/watch?v=v28Pu7hsJ0s)
 
 #### Philipp Schmid’s Blog: [Fine-tune Embedding models for Retrieval Augmented Generation (RAG)](https://www.philschmid.de/fine-tune-embedding-model-for-rag#3-define-loss-function-with-matryoshka-representation)
 
